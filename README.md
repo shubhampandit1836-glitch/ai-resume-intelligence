@@ -9,7 +9,7 @@ An AI-powered web app that analyzes resumes and provides:
 - 🎯 Job Recommendations
 
 ## 🔗 Live App
-[Click Here]([YOUR_LINK](https://ai-resumes-intelligence.streamlit.app/))
+[Click Here](https://ai-resumes-intelligence.streamlit.app/)
 
 ## 🛠 Tech Stack
 - Python
